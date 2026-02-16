@@ -1,9 +1,6 @@
 # Awesome Agentic Open-Source Tools (2026 Edition)
 
 A curated list of the most important open-source repositories powering agentic AI in 2026 — from agent frameworks and visual builders to automation platforms, retrieval systems, evaluation tools, and experimental agents.
-
-> Source: [You.com — Popular Agentic Open-Source Tools 2026](https://you.com/resources/popular-agentic-open-source-tools-2026)
-
 ---
 
 ## Table of Contents
@@ -82,7 +79,7 @@ Tools for evaluation, testing, and monitoring to ensure agents perform reliably 
 | [Promptfoo](https://github.com/promptfoo/promptfoo) | ![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social) | ![GitHub forks](https://img.shields.io/github/forks/promptfoo/promptfoo?style=social) | Testing framework for prompts, models, and agent behaviors. Enables regression testing and CI integration. |
 | [Helicone](https://github.com/Helicone/helicone) | ![GitHub stars](https://img.shields.io/github/stars/Helicone/helicone?style=social) | ![GitHub forks](https://img.shields.io/github/forks/Helicone/helicone?style=social) | Observability and monitoring for LLM and agent workflows. Tracks requests, latency, costs, and behavior over time. |
 | [Pydantic AI](https://github.com/pydantic/pydantic-ai) | ![GitHub stars](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social) | ![GitHub forks](https://img.shields.io/github/forks/pydantic/pydantic-ai?style=social) | Structured validation and type enforcement for LLM and agent outputs. Ensures responses conform to expected schemas. |
-| [You.com Agent Evals](https://github.com/youdotcom-oss/web-search-agent-evals) | — | — | Open-source evaluation repos for measuring agent reliability at scale — including [web search evals](https://github.com/youdotcom-oss/web-search-agent-evals), [deep research benchmarks](https://github.com/youdotcom-oss/ydc-deep-research-evals), and [stochastic agent evals](https://github.com/youdotcom-oss/stochastic-agent-evals). |
+
 
 ---
 
